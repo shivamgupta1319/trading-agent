@@ -1,0 +1,9 @@
+# Streamlit theme — a modern dark look with a teal-green accent.
+# Streamlit reads this automatically on `streamlit run`. Tweak the colors to taste.
+[theme]
+base = "dark"
+primaryColor = "#00c896"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#161b26"
+textColor = "#e6e6e6"
+font = "sans serif"
